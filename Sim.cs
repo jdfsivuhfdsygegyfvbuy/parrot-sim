@@ -23,20 +23,20 @@ class ParrotSim {
 	}
 	public string parse(string command, Parrot parrotImg) {
 		if (command == "t") {
-			return parrotImg.talk();
+			return parrotImg.Talk();
 		} else if (command == "ff") {
 			var feeder = new Feeder();
 			var seed = feeder.generateSeed();
-			return parrotImg.eat(seed);
+			return parrotImg.Eat(seed);
 		} else if (command == "fg") {
 			var feeder = new Feeder();
 			var trash = feeder.generateTrash();
-			return parrotImg.eat(trash);
+			return parrotImg.Eat(trash);
 		} else if (command == "n") {
-			var name = parrotImg.getName();
+			var name = parrotImg.GetName();
 			return name;
 		} else if (command == "h") {
-			return parrotImg.help();
+			return parrotImg.Help();
 		} else if (command == "q") {
 			Environment.Exit(0);
 			return "abcdef"; // never reaches but needed
