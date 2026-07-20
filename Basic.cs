@@ -34,7 +34,7 @@ class Parrot {
 	}
     public string Help()
     {
-        return "Commands: t = TALK, ff = FEED FOOD, fg = FEED GARBAGE, n = NAME, q = QUIT, h = HELP";
+        return "Commands: t = TALK, ff = FEED FOOD, fg = FEED GARBAGE, n = NAME, q = QUIT, h = HELP, ghu = GET HUNGER, gha = GET HAPPINESS";
     }
 
     public string Eat(object item) {

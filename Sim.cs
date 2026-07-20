@@ -35,6 +35,14 @@ class ParrotSim {
 		} else if (command == "n") {
 			var name = parrotImg.GetName();
 			return name;
+		} else if (command == "ghu")
+		{
+			var hu = parrotImg.GetHu();
+			return hu.ToString();
+		} else if (command == "gha")
+		{
+			var ha = parrotImg.GetHa();
+			return ha.ToString();
 		} else if (command == "h") {
 			return parrotImg.Help();
 		} else if (command == "q") {
