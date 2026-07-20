@@ -22,7 +22,7 @@ class ParrotSim {
 		}
 	}
 	public string parse(string command, Parrot parrotImg) {
-		if (command == "talk") {
+		if (command == "t") {
 			return parrotImg.talk();
 		} else if (command == "ff") {
 			var feeder = new Feeder();

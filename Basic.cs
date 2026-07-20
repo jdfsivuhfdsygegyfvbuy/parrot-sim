@@ -17,7 +17,7 @@ class Parrot {
 		return "Chirp-chirp!";
 	}
 	public string help() {
-		return "Commands: ff = FEED FOOD, fg = FEED GARBAGE, n = NAME, q = QUIT, h = HELP";
+		return "Commands: t = TALK, ff = FEED FOOD, fg = FEED GARBAGE, n = NAME, q = QUIT, h = HELP";
 	}
 	public string eat(object item) {
 		if (item is Seed) {
