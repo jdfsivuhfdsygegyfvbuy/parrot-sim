@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yura\\Desktop\\projects\\parrotsim\\parrotsim.csproj",
+      "projectUniqueName": "C:\\Users\\Yura\\Desktop\\projects\\parrotsim_FIXED\\parrotsim.csproj",
       "projectName": "parrotsim",
-      "projectPath": "C:\\Users\\Yura\\Desktop\\projects\\parrotsim\\parrotsim.csproj",
+      "projectPath": "C:\\Users\\Yura\\Desktop\\projects\\parrotsim_FIXED\\parrotsim.csproj",
       "packagesPath": "C:\\Users\\Yura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yura\\Desktop\\projects\\parrotsim\\obj\\",
+      "outputPath": "C:\\Users\\Yura\\Desktop\\projects\\parrotsim_FIXED\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yura\\AppData\\Roaming\\NuGet\\NuGet.Config"

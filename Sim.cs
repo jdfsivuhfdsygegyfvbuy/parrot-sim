@@ -37,7 +37,7 @@ class ParrotSim {
 			return name;
 		} else if (command == "bye bye") {
 			Environment.Exit(0);
-			return 0; // never reaches but needed
+			return "abcdef"; // never reaches but needed
 		} else {
 			return "Unknown command.";
 		}
