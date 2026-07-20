@@ -1,0 +1,15 @@
+C:\Users\Yura\Desktop\projects\parrotsim\obj\Debug\net8.0\parrotsim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yura\Desktop\projects\parrotsim\obj\Debug\net8.0\parrotsim.AssemblyInfoInputs.cache
+C:\Users\Yura\Desktop\projects\parrotsim\obj\Debug\net8.0\parrotsim.AssemblyInfo.cs
+C:\Users\Yura\Desktop\projects\parrotsim\obj\Debug\net8.0\parrotsim.csproj.CoreCompileInputs.cache
+C:\Users\Yura\Desktop\projects\parrotsim\bin\Debug\net8.0\parrotsim.exe
+C:\Users\Yura\Desktop\projects\parrotsim\bin\Debug\net8.0\parrotsim.deps.json
+C:\Users\Yura\Desktop\projects\parrotsim\bin\Debug\net8.0\parrotsim.runtimeconfig.json
+C:\Users\Yura\Desktop\projects\parrotsim\bin\Debug\net8.0\parrotsim.dll
+C:\Users\Yura\Desktop\projects\parrotsim\bin\Debug\net8.0\parrotsim.pdb
+C:\Users\Yura\Desktop\projects\parrotsim\obj\Debug\net8.0\parrotsim.dll
+C:\Users\Yura\Desktop\projects\parrotsim\obj\Debug\net8.0\refint\parrotsim.dll
+C:\Users\Yura\Desktop\projects\parrotsim\obj\Debug\net8.0\parrotsim.pdb
+C:\Users\Yura\Desktop\projects\parrotsim\obj\Debug\net8.0\parrotsim.genruntimeconfig.cache
+C:\Users\Yura\Desktop\projects\parrotsim\obj\Debug\net8.0\ref\parrotsim.dll
+C:\Users\Yura\Desktop\projects\parrotsim\obj\Debug\net8.0\parrotsim.sourcelink.json
