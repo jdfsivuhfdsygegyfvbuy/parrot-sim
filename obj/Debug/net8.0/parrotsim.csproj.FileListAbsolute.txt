@@ -21,3 +21,10 @@ C:\Users\Yura\Desktop\projects\parrotsim_FIXED\obj\Debug\net8.0\parrotsim.source
 C:\Users\Yura\Desktop\projects\parrotsim_FIXED\obj\Debug\net8.0\parrotsim.dll
 C:\Users\Yura\Desktop\projects\parrotsim_FIXED\obj\Debug\net8.0\refint\parrotsim.dll
 C:\Users\Yura\Desktop\projects\parrotsim_FIXED\obj\Debug\net8.0\parrotsim.pdb
+C:\Users\Yura\Desktop\projects\parrotsim_FIXED\bin\Debug\net8.0\parrotsim.exe
+C:\Users\Yura\Desktop\projects\parrotsim_FIXED\bin\Debug\net8.0\parrotsim.deps.json
+C:\Users\Yura\Desktop\projects\parrotsim_FIXED\bin\Debug\net8.0\parrotsim.runtimeconfig.json
+C:\Users\Yura\Desktop\projects\parrotsim_FIXED\bin\Debug\net8.0\parrotsim.dll
+C:\Users\Yura\Desktop\projects\parrotsim_FIXED\bin\Debug\net8.0\parrotsim.pdb
+C:\Users\Yura\Desktop\projects\parrotsim_FIXED\obj\Debug\net8.0\parrotsim.genruntimeconfig.cache
+C:\Users\Yura\Desktop\projects\parrotsim_FIXED\obj\Debug\net8.0\ref\parrotsim.dll

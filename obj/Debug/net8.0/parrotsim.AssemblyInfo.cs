@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("parrotsim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6545c91e5672ecd43e6c128b5010e2b56ed4806e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31fcac067f9bab460ee6d7ab805efc23c6c734f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("parrotsim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("parrotsim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
