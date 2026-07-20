@@ -40,8 +40,10 @@ class Parrot {
     public string Eat(object item) {
         ArgumentNullException.ThrowIfNull(item);
         if (item is Seed) {
+			this.hunger += 30;
 			return "Nom nom nom!!!";
 		} else {
+			this.hunger -= 20;
 			return "What is that? I don't want that!";
 		}
 	}
