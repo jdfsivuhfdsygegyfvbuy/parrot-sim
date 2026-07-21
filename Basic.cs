@@ -29,8 +29,13 @@ class Parrot {
 
     public string Talk()
 	{
-		this.happiness += 20;
-		return "Chirp chirp!";
+        if (happiness >= 100)
+        {
+            return "CRAZY PARROT! (flying into walls, squeaking at 3 AM) Talk trash to it!";
+        } else {
+		    this.happiness += 20;
+		    return "Chirp chirp!";
+        }
 	}
     public string TrashTalk()
     {
@@ -45,8 +50,13 @@ class Parrot {
     public string Eat(object item) {
         ArgumentNullException.ThrowIfNull(item);
         if (item is Seed) {
-			this.hunger += 30;
-			return "Nom nom nom!!!";
+            if (this.hunger >= 100)
+            {
+                return "OBESE PARROT! Feed it garbage!";
+            } else {
+			    this.hunger += 30;
+			    return "Nom nom nom!!!";
+            }
 		} else {
 			this.hunger -= 20;
 			return "What is that? I don't want that!";
