@@ -3,24 +3,24 @@ using System;
 namespace Feeding;
 class Seed {
 	public Seed() {
-		Console.WriteLine("A seed has been placed in front of your parrot.");
+		Console.WriteLine("🌱 A seed has been placed in front of your parrot.");
 	}
 }
 class Trash {
 	public Trash() {
-		Console.WriteLine("This is trash. It smells like skunks and bad life decisions.");
+		Console.WriteLine("🗑️ This is trash. It smells like skunks and bad life decisions. 🦨");
 	}
 }
 class Feeder {
 	public Feeder() {
-		Console.WriteLine("A kind feeder approaches your parrot...");
+		Console.WriteLine("👨‍🌾 A kind feeder approaches your parrot...");
 	}
 	public Seed generateSeed() {
-		Console.WriteLine("The feeder approaches with a seed...");
+		Console.WriteLine("👨‍🌾 The feeder approaches with a seed...");
 		return new Seed();
 	}
 	public Trash generateTrash() {
-		Console.WriteLine("The feeder approaches with... trash.");
+		Console.WriteLine("👨‍🌾 The feeder approaches with... trash. 🗑️");
 		return new Trash();
 	}
 }
