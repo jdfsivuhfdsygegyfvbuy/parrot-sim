@@ -3,7 +3,7 @@ using System;
 namespace Feeding;
 class Seed {
 	public Seed() {
-		Console.WriteLine("A seed has materialized.");
+		Console.WriteLine("A seed has been placed in front of your parrot.");
 	}
 }
 class Trash {

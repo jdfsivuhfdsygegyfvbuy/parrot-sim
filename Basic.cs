@@ -32,9 +32,14 @@ class Parrot {
 		this.happiness += 20;
 		return "Chirp chirp!";
 	}
+    public string TrashTalk()
+    {
+        this.happiness -= 30;
+        return "Oh no! Your parrot is sad!";
+    }
     public string Help()
     {
-        return "Commands: t = TALK, ff = FEED FOOD, fg = FEED GARBAGE, n = NAME, q = QUIT, h = HELP, ghu = GET HUNGER, gha = GET HAPPINESS";
+        return "Commands: tt = TRASHTALK, t = TALK, ff = FEED FOOD, fg = FEED GARBAGE, n = NAME, q = QUIT, h = HELP, ghu = GET HUNGER, gha = GET HAPPINESS";
     }
 
     public string Eat(object item) {

@@ -24,6 +24,9 @@ class ParrotSim {
 	public string parse(string command, Parrot parrotImg) {
 		if (command == "t") {
 			return parrotImg.Talk();
+		} else if (command == "tt")
+		{
+			return parrotImg.TrashTalk();
 		} else if (command == "ff") {
 			var feeder = new Feeder();
 			var seed = feeder.generateSeed();
